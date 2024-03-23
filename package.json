@@ -1,0 +1,19 @@
+{
+  "name": "audiofork-amazon-transcribe-demo",
+  "version": "1.0.0",
+  "description": "Audiofork integration with Amazon transcribe",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadirhamid/audiofork-amazon-transcribe-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadirhamid/audiofork-amazon-transcribe-demo/issues"
+  },
+  "homepage": "https://github.com/nadirhamid/audiofork-amazon-transcribe-demo#readme"
+}
