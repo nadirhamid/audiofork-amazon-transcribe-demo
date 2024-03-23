@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/nadirhamid/audiofork-amazon-transcribe-demo/issues"
   },
-  "homepage": "https://github.com/nadirhamid/audiofork-amazon-transcribe-demo#readme"
+  "homepage": "https://github.com/nadirhamid/audiofork-amazon-transcribe-demo#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1584.0",
+    "dotenv": "^16.4.5",
+    "ws": "^8.16.0"
+  }
 }
