@@ -50,7 +50,3 @@ To use this demo application, follow these steps:
 - Ensure proper network connectivity and firewall settings to allow communication between the Asterisk server and Amazon Transcribe service.
 - This demo application provides a basic integration example. Developers can extend it further to incorporate additional features or enhance error handling as per their requirements.
 - [dotenv](https://www.npmjs.com/package/dotenv) package is used to manage environment variables. Make sure to add your AWS credentials and other configuration variables to the `.env` file for proper configuration.
-
----
-
-Feel free to customize this README file further with additional details or instructions specific to your project's setup and requirements.
